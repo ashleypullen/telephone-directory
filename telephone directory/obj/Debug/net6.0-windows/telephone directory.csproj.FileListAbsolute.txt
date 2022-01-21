@@ -1,0 +1,17 @@
+C:\Users\ashle\source\repos\telephone directory\telephone directory\bin\Debug\net6.0-windows\telephone directory.exe
+C:\Users\ashle\source\repos\telephone directory\telephone directory\bin\Debug\net6.0-windows\telephone directory.deps.json
+C:\Users\ashle\source\repos\telephone directory\telephone directory\bin\Debug\net6.0-windows\telephone directory.runtimeconfig.json
+C:\Users\ashle\source\repos\telephone directory\telephone directory\bin\Debug\net6.0-windows\telephone directory.dll
+C:\Users\ashle\source\repos\telephone directory\telephone directory\bin\Debug\net6.0-windows\ref\telephone directory.dll
+C:\Users\ashle\source\repos\telephone directory\telephone directory\bin\Debug\net6.0-windows\telephone directory.pdb
+C:\Users\ashle\source\repos\telephone directory\telephone directory\obj\Debug\net6.0-windows\telephone directory.csproj.AssemblyReference.cache
+C:\Users\ashle\source\repos\telephone directory\telephone directory\obj\Debug\net6.0-windows\telephone_directory.Form1.resources
+C:\Users\ashle\source\repos\telephone directory\telephone directory\obj\Debug\net6.0-windows\telephone directory.csproj.GenerateResource.cache
+C:\Users\ashle\source\repos\telephone directory\telephone directory\obj\Debug\net6.0-windows\telephone directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\source\repos\telephone directory\telephone directory\obj\Debug\net6.0-windows\telephone directory.AssemblyInfoInputs.cache
+C:\Users\ashle\source\repos\telephone directory\telephone directory\obj\Debug\net6.0-windows\telephone directory.AssemblyInfo.cs
+C:\Users\ashle\source\repos\telephone directory\telephone directory\obj\Debug\net6.0-windows\telephone directory.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\telephone directory\telephone directory\obj\Debug\net6.0-windows\telephone directory.dll
+C:\Users\ashle\source\repos\telephone directory\telephone directory\obj\Debug\net6.0-windows\ref\telephone directory.dll
+C:\Users\ashle\source\repos\telephone directory\telephone directory\obj\Debug\net6.0-windows\telephone directory.pdb
+C:\Users\ashle\source\repos\telephone directory\telephone directory\obj\Debug\net6.0-windows\telephone directory.genruntimeconfig.cache
